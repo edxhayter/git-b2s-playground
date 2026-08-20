@@ -1,0 +1,1 @@
+SELECT * FROM DS47;
